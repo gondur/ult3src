@@ -1,0 +1,35 @@
+XL
+H 1 areas 13 global symbols
+M ftou.ms
+S .fsub32 Ref0000
+S .pi Ref0000
+S .fmul32 Ref0000
+S .floor Ref0000
+S fpnorm Ref0000
+S .dec Ref0000
+S .twopi Ref0000
+S .fadd32 Ref0000
+S .onedivtwopi Ref0000
+S sin_table Ref0000
+S .cos Ref0000
+S .sin Ref0000
+S .sqrt Ref0000
+S .pi2 Ref0000
+S .pi4 Ref0000
+S .fdiv32 Ref0000
+S sqrt1aa Ref0000
+A _CODE size 4C flags 0
+S .ftoi Def001E
+S .ftou Def0000
+T 00 00 CB 7C 28 03 3E 00 C9 7C FE 40 30 03 3E 00
+R 00 00 00 00
+T 0E 00 C9 B7 CB 1D CB 1A CB 1B 24 7C FE 58 38 F3
+R 00 00 00 00
+T 1C 00 7B C9 44 7C E6 7F 67 FE 41 30 03 3E 00 C9
+R 00 00 00 00
+T 2A 00 FE 48 38 08 3E 7F CB 78 C8 3E 80 C9 FE 48
+R 00 00 00 00
+T 38 00 28 0B B7 CB 1D CB 1A CB 1B 24 7C 18 F1 7D
+R 00 00 00 00
+T 46 00 CB 78 C8 2F 3C C9
+R 00 00 00 00

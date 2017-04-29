@@ -1,0 +1,13 @@
+XL
+H 4 areas 1 global symbols
+A _CODE size 0 flags 0
+A _DATA size 2 flags 0
+S _digits Def0000
+A _LIT size 11 flags 0
+A _BSS size 0 flags 0
+T 00 00 00 00
+R 00 00 01 00 00 02 02 00
+T 00 00 30 31 32 33 34 35 36 37 38 39 41 42 43 44
+R 00 00 02 00
+T 0E 00 45 46 00
+R 00 00 02 00

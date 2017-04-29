@@ -1,0 +1,13 @@
+XL
+H 4 areas 1 global symbols
+A _CODE size 25 flags 0
+S _strlen Def0000
+A _DATA size 0 flags 0
+A _LIT size 0 flags 0
+A _BSS size 0 flags 0
+T 00 00 3B C5 F8 02 36 00 C3 0C 00 F8 02 34 F8 05
+R 00 00 00 00 00 09 00 00
+T 0E 00 2A 56 5F 42 4B 03 F8 05 79 22 70 1A FE 00
+R 00 00 00 00
+T 1C 00 C2 09 00 F8 02 5E C1 33 C9
+R 00 00 00 00 00 03 00 00

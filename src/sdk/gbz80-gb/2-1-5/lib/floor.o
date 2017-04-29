@@ -1,0 +1,35 @@
+XL
+H 1 areas 13 global symbols
+M floor_ms
+S .fsub32 Ref0000
+S .pi Ref0000
+S .fmul32 Ref0000
+S fpnorm Ref0000
+S .ftoi Ref0000
+S .twopi Ref0000
+S .fadd32 Ref0000
+S .onedivtwopi Ref0000
+S .ftou Ref0000
+S sin_table Ref0000
+S .cos Ref0000
+S .sin Ref0000
+S .sqrt Ref0000
+S .pi2 Ref0000
+S .pi4 Ref0000
+S .fdiv32 Ref0000
+S sqrt1aa Ref0000
+A _CODE size 4B flags 0
+S .floor Def0000
+S .dec Def0024
+T 00 00 44 7C E6 7F FE 40 30 06 26 00 6C 54 5C C9
+R 00 00 00 00
+T 0E 00 B7 CB 1D CB 1A CB 1B 3C FE 58 38 F4 67 78
+R 00 00 00 00
+T 1C 00 E6 80 B4 67 CD 00 00 C9 44 7C E6 7F FE 41
+R 00 00 00 00 02 07 03 00
+T 2A 00 D8 FE 58 38 06 21 00 00 54 5C C9 B7 CB 13
+R 00 00 00 00
+T 38 00 CB 12 CB 15 3D FE 40 20 F4 67 78 E6 80 B4
+R 00 00 00 00
+T 46 00 67 CD 00 00 C9
+R 00 00 00 00 02 04 03 00

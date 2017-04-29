@@ -1,0 +1,11 @@
+XL
+H 4 areas 1 global symbols
+A _CODE size 16 flags 0
+S _abs Def0000
+A _DATA size 0 flags 0
+A _LIT size 0 flags 0
+A _BSS size 0 flags 0
+T 00 00 F8 02 7E C6 80 FE 80 D2 12 00 F8 02 AF 96
+R 00 00 00 00 00 0A 00 00
+T 0E 00 5F C3 15 00 F8 02 5E C9
+R 00 00 00 00 00 04 00 00

@@ -1,0 +1,12 @@
+XL
+H 1 areas 6 global symbols
+M endin.s
+A _CODE size E flags 0
+S _hotnl Def000D
+S _ntohl Def000C
+S _htons Def0000
+S _ntohs Def0000
+S _swap_byte Def0006
+S _swap_word Def0000
+T 00 00 F8 02 56 23 5E C9 F8 02 5E CB 33 C9 C9 C9
+R 00 00 00 00

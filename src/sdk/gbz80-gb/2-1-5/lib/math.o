@@ -1,0 +1,22 @@
+XL
+H 1 areas 13 global symbols
+S .fsub32 Ref0000
+S .pi Ref0000
+S .fmul32 Ref0000
+S .floor Ref0000
+S fpnorm Ref0000
+S .dec Ref0000
+S .ftoi Ref0000
+S .twopi Ref0000
+S .fadd32 Ref0000
+S .onedivtwopi Ref0000
+S .ftou Ref0000
+S sin_table Ref0000
+S .cos Ref0000
+S .sin Ref0000
+S .sqrt Ref0000
+S .pi2 Ref0000
+S .pi4 Ref0000
+S .fdiv32 Ref0000
+S sqrt1aa Ref0000
+A _CODE size 0 flags 0

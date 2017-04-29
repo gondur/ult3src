@@ -1,0 +1,12 @@
+XL
+H 2 areas 8 global symbols
+A _CODE size 0 flags 0
+A _BSS size 20 flags 0
+S .lreg0 Def0000
+S .lreg1 Def0004
+S .lreg2 Def0008
+S .lreg3 Def000C
+S .lreg4 Def0010
+S .lreg5 Def0014
+S .lreg6 Def0018
+S .lreg7 Def001C

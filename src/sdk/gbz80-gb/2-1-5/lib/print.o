@@ -1,0 +1,14 @@
+XL
+H 4 areas 2 global symbols
+S _putchar Ref0000
+A _CODE size 25 flags 0
+S _print Def0000
+A _DATA size 0 flags 0
+A _LIT size 0 flags 0
+A _BSS size 0 flags 0
+T 00 00 C5 C3 18 00 F8 04 2A 56 5F 42 4B 03 F8 04
+R 00 00 00 00 00 04 00 00
+T 0E 00 79 22 70 1A F5 33 CD 00 00 33 F8 04 2A 56
+R 00 00 00 00 02 09 00 00
+T 1C 00 5F 1A FE 00 C2 04 00 C1 C9
+R 00 00 00 00 00 07 00 00

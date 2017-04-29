@@ -1,0 +1,31 @@
+XL
+H 1 areas A global symbols
+S _malloc_heap_start Ref0000
+S _malloc_init Ref0000
+A _CODE size 76 flags 0
+S _malloc_found Def002D
+S _malloc_find Def0047
+S _malloc Def0000
+S _malloc_find_loop Def005B
+S _malloc_loop Def0013
+S _malloc_check Def001C
+S _malloc_find_next Def0065
+S _malloc_next Def0041
+T 00 00 F8 02 4E 23 46 03 03 21 00 00 7D B4 20 05
+R 00 00 00 00 02 0A 00 00
+T 0E 00 CD 00 00 18 ED 2A 5F B6 20 04 11 00 00 C9
+R 00 00 00 00 02 03 01 00
+T 1C 00 56 CB 7A 28 20 CB BA 7A 90 38 1A 20 04 7B
+R 00 00 00 00
+T 2A 00 91 38 14 E5 0B 0B 70 2B 71 03 03 09 7B 91
+R 00 00 00 00
+T 38 00 22 7A 98 F6 80 77 D1 13 C9 CB BA 19 23 18
+R 00 00 00 00
+T 46 00 CC C5 F8 04 5E 23 56 1B 1B 21 00 00 7D B4
+R 00 00 00 00 02 0C 00 00
+T 54 00 20 05 C1 11 00 00 C9 7D BB 20 06 7C BA 20
+R 00 00 00 00
+T 62 00 02 C1 C9 2A 4F 46 B0 20 05 C1 11 00 00 C9
+R 00 00 00 00
+T 70 00 CB B8 09 23 18 E5
+R 00 00 00 00

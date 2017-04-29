@@ -1,0 +1,9 @@
+XL
+H 1 areas 3 global symbols
+M clock.s
+S .sys_time Ref0000
+A _CODE size C flags 0
+S _clock Def0000
+S .clock Def0000
+T 00 00 21 01 00 56 2B 5E 23 BA C8 1E FF C9
+R 00 00 00 00 02 03 00 00
